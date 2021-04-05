@@ -10,17 +10,19 @@ This project will provide two solutions which consist of Basic Solution and Adva
 
 Basic solution would consider the model as below and using accuracy as a metric
 
-MLEnd-mini-project
-    ├── dataset
-    │   └── XXXXXX.csv
-        └── XXXXX.wav
-    ├── Basic solution
-    │    ├── Random Forest - MLEnd_Basic solution_RandomForest.ipynb
-    │    ├── Support Vector Machine - MLEnd_Basic solution_SVM.ipynb
-    │    ├── Naive Bayes - MLEnd_Basic solution_Naive Bayes.ipynb
-         ├── Logistic Regression - MLEnd_Basic solution_Logistic Regression.ipynb
-    │── Advanced solution
-    │   └── (Example) XXXXX.ipynb
-    │   └── (Example) XXXXX.ipynb
-    │   └── (Example) XXXXX.ipynb
-    └── README.md
+**Direcotry Structure**
+
+    MLEnd-mini-project
+        ├── dataset
+        │   └── XXXXXX.csv
+            └── XXXXX.wav
+        ├── Basic solution
+        │    ├── Random Forest - MLEnd_Basic solution_RandomForest.ipynb
+        │    ├── Support Vector Machine - MLEnd_Basic solution_SVM.ipynb
+        │    ├── Naive Bayes - MLEnd_Basic solution_Naive Bayes.ipynb
+             ├── Logistic Regression - MLEnd_Basic solution_Logistic Regression.ipynb
+        │── Advanced solution
+        │   └── (Example) XXXXX.ipynb
+        │   └── (Example) XXXXX.ipynb
+        │   └── (Example) XXXXX.ipynb
+        └── README.md
